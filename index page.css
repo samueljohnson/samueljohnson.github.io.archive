@@ -1,0 +1,108 @@
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Ubuntu'), url('http://people.canonical.com/~jriddell/ubuntu-font-family-sources/Ubuntu-R.ttf') format('truetype');
+}
+
+A {
+	font-family: 'Ubuntu';
+	font-size: smaller;
+}
+
+/* A:link {color: #33a;} */
+/*A:visited {color: #225;} */
+
+
+/*
+.header {border: thin maroon solid;
+	font-size: small;
+	background-color: lightblue;}
+*/
+
+ul.word-moan li {margin-top: 1em;}
+
+BODY {
+	margin-top: 0px;
+	margin-bottom: 2px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+}
+
+/*
+.top {
+	padding-left: 1em;
+	margin-top: 0px;
+	background-color: #eef2ff;
+	border-bottom: thin gray solid;
+	border-top: thin #eef2ff solid;
+}
+*/
+
+.toplinks {
+	background-color: #eef2ff;
+	padding-left: 1em;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin: 1ex; 
+	background-color: #eef2ff;
+	border-top: 1px gray solid;
+	border-bottom: 1px gray solid; 
+}
+
+h1 {
+	font-family: 'Ubuntu';
+	margin-left: 1ex;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	padding: 0em;
+}
+
+.mainbody {
+	margin: 1em;
+}
+
+/*
+.footer {
+	padding-left: 1em;
+	margin: 0px;
+	background-color: #eef2ff;
+	border-top: thin gray solid;
+	border-bottom: thin #eef2ff solid; 
+}
+*/
+
+.footer {
+	padding-left: 1em;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin: 1ex; 
+	background-color: #eef2ff;
+	border-top: 1px gray solid;
+	border-bottom: 1px gray solid; 
+}
+
+.footertext {
+	font-size: smaller;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+.stopwar {
+	border: thin solid black; 
+	margin-left: 1em; 
+	margin-right: 1em; 
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: bold;
+	background-color: #ccc;
+}
+
+dl.const dt {background-color: #eef2ff;}
+
+.hidden {display: none;}
