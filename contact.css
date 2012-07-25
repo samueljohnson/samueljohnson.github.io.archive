@@ -3,7 +3,7 @@
   font-family: 'Ubuntu';
   font-style: normal;
   font-weight: normal;
-  src: local('Ubuntu'), url('http://people.canonical.com/~jriddell/ubuntu-font-family-sources/Ubuntu-R.ttf') format('truetype');
+  src: local('Ubuntu'), url('http://samueljohnson.github.com/Ubuntu-R.ttf') format('truetype');
 }
 
 A {
