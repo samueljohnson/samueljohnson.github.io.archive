@@ -1,0 +1,15 @@
+/* TEAM */
+	Owner: Samuel Johnson
+	Contact: esamueljohnson [at] gmail.com
+	From:Ahmedabad, India
+
+/* THANKS */
+
+	Web template: Jonathan Riddell
+	Contact: jr [at] jriddell.org
+	From: Scotland
+
+/* SITE */
+	Last update:2014/03/16
+	Doctype:HTML5
+	IDE: VIM, bluefish, git, LibreOffice Word, gpg
