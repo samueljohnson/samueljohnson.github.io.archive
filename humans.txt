@@ -1,15 +1,28 @@
+   _____                            __
+  / ___/____ _____ ___  __  _____  / /
+  \__ \/ __ `/ __ `__ \/ / / / _ \/ / 
+ ___/ / /_/ / / / / / / /_/ /  __/ /  
+/____/\__,_/_/ /_/ /_/\__,_/\___/_/   
+                                      
+       __      __                         
+      / /___  / /_  ____  _________  ____ 
+ __  / / __ \/ __ \/ __ \/ ___/ __ \/ __ \
+/ /_/ / /_/ / / / / / / (__  ) /_/ / / / /
+\____/\____/_/ /_/_/ /_/____/\____/_/ /_/
+
+
 /* TEAM */
-	Owner: Samuel Johnson
-	Contact: esamueljohnson [at] gmail.com
-	From:Ahmedabad, India
+	Owner: 		Samuel Johnson
+	Contact(P): 	esamueljohnson [at} gmail {dot] com
+	Contact(O): 	samuel [at] prl {dot) res (dot} in
+	From:		Ahmedabad, Gujarat, India
 
 /* THANKS */
 
-	Web template: Jonathan Riddell
-	Contact: jr [at] jriddell.org
-	From: Scotland
+	Web template:	Jonathan Riddell
+        Font:		Ubuntu
 
 /* SITE */
-	Last update:2014/03/16
-	Doctype:HTML5
-	IDE: VIM, bluefish, git, LibreOffice Word, gpg
+	Last update:	1395420472
+	Doctype:	HTML5
+	Software:	VIM, bluefish, git, LibreOffice Word, gpg, Arch Linux
