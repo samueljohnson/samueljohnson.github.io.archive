@@ -2,6 +2,8 @@
 name: Samuel Johnson
 title: Scientist / Engineer - SC
 # email: samuel [at] prl.res.in
+organisation: Physical Research Laboratory
+username: samueljohnson
 description: "This simple and awesome site is created using git, vim, jekyll, markdown, liquid and other FOSS."
 baseurl: ""
 url: "http://www.prl.res.in/~samuel"
