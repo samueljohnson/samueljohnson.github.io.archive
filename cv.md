@@ -72,7 +72,7 @@ to this tool.
 
 ## Work Experience
 
-### **Physical Research Laboratory, July 2012 - Current**
+### Physical Research Laboratory, July 2012 - Current
 
 #### Desgination : Scientist / Engineer - SC
 
