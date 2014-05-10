@@ -10,4 +10,4 @@ weight: 4
 
 * [Slides/Presentations](https://docs.google.com/folderview?id=0Byuyn2ZpRQybNlFEUnhDSFh2Mzg){:target="_blank"}
 
-* [Public Key (gmail)](https://raw.github.com/samueljohnson/samueljohnson.github.com/master/Public.asc){:target="_blank"}
+* [Public Key (gmail)](https://samueljohnson.github.com/assets/Public.asc){:target="_blank"}
