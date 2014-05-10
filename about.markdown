@@ -14,4 +14,4 @@ My [Myers-Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type
 
 Drop me a line at: my short first name (six letters) at Physical Research Laboratory's domain.
 
-Download my [public GPG key](https://raw.github.com/samueljohnson/samueljohnson.github.com/master/Public.asc) to encrypt email you send me.
+Download my [public GPG key](https://samueljohnson.github.com/assets/PRL_Public.asc) to encrypt email you send me.
