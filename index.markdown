@@ -4,11 +4,10 @@ title:  "Home"
 weight: 4
 ---
 
-* [Github Repositories](https://github.com/samueljohnson/)
+* [Github Repositories](https://github.com/samueljohnson/){:target="_blank"}
 
 * [Blog](https://samueljohnson.github.io/blog)
 
-* [Slides/Presentations](https://docs.google.com/folderview?id=0Byuyn2ZpRQybNlFEUnhDSFh2Mzg)
+* [Slides/Presentations](https://docs.google.com/folderview?id=0Byuyn2ZpRQybNlFEUnhDSFh2Mzg){:target="_blank"}
 
-* [Public Key (gmail)](https://raw.github.com/samueljohnson/samueljohnson.github.com/master/Public.asc)
-
+* [Public Key (gmail)](https://raw.github.com/samueljohnson/samueljohnson.github.com/master/Public.asc){:target="_blank"}

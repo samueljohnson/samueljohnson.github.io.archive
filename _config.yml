@@ -1,7 +1,7 @@
 # Site settings
 name: Samuel Johnson
 title: Scientist / Engineer - SC
-# email: samuel [at] prl.res.in
+email: samuel@prl.res.in
 description: "This simple and awesome site is created using git, vim, jekyll, markdown, liquid and other FOSS."
 baseurl: ""
 url: "http://www.prl.res.in/~samuel"
