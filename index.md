@@ -4,7 +4,7 @@ layout: default
 
 * [Github Repositories](https://github.com/samueljohnson/)
 
-* [Blog]()
+* [Blog](https://samueljohnson.github.io/blog)
 
 * [Slides/Presentations](https://docs.google.com/folderview?id=0Byuyn2ZpRQybNlFEUnhDSFh2Mzg)
 
