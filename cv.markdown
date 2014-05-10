@@ -16,7 +16,7 @@ free software on the desktop and server.
 ## Skills
 
   * Programming Languages: C, C++, Java, Shell Scripting.
-  * Software: Git, Vim, Adobe Photoshop, OS X, Linux, Geany, KVM, VirtualBox
+  * Software: Git, Vim, Adobe Photoshop, OS X, Arch Linux, Geany, KVM, VirtualBox
 
 ### Achievements
 
