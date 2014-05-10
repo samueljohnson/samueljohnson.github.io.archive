@@ -48,7 +48,7 @@ rover](http://samueljohnson.github.com/assets/13032009263.jpg) was controlled us
 which has a limited range, a cell phone covers the entire Earth. The video
 camera on the cell phone could also be used to transmit live feed back.
 
-This project fetched _first prize_ in the National Symposium "COMPSEM-09"
+This project fetched **first prize** in the National Symposium "COMPSEM-09"
 organized by Annamalai University in year 2009.
 
 ### 2) Visual Speech Synthesis
