@@ -43,7 +43,7 @@ free software on the desktop and server.
 ### 1) Cell Phone Based Distant Object Control
 
 In this project, a remote [land
-rover](http://samueljohnson.github.com/13032009263.jpg) was controlled using
+rover](http://samueljohnson.github.com/assets/13032009263.jpg) was controlled using
 **DTMF tones** from a cellular device. Unlike the traditional remote control
 which has a limited range, a cell phone covers the entire Earth. The video
 camera on the cell phone could also be used to transmit live feed back.
