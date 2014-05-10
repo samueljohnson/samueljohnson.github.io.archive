@@ -1,5 +1,7 @@
 ---
 layout: default
+title:  "Home"
+weight: 4
 ---
 
 * [Github Repositories](https://github.com/samueljohnson/)
