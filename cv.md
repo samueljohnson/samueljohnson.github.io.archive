@@ -21,7 +21,7 @@ free software on the desktop and server.
 ### Achievements
 
   * [Certified](https://www.certmetrics.com/comptia/public/verification.aspx?code=LXRG9Z8K6LFE1RV4) in vendor-neutral **Comptia Linux+** Powered by **LPI**.
-  * Novell [Certified](https://docs.google.com/viewer?url=http://samueljohnson.github.com/SamuelJohnson_NCLA_ECR.pdf) Linux Administrator.
+  * Novell [Certified](https://docs.google.com/viewer?url=https://github.com/samueljohnson/samueljohnson.github.com/blob/master/assests/SamuelJohnson_NCLA_ECR.pdf?raw=true) Linux Administrator.
   * Certified in [LPIC-1 Certification](http://samueljohnson.github.com/LPI LPIC-1.jpg) from Linux Professional Institute.
   * Won **First Prize** in Project Competition in National Symposium"COMPSEM-09" organized by Annamalai University.
   * **Published Paper** in International Journal of Engineering Research & Technology.
