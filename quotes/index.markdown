@@ -83,6 +83,9 @@ Here is my current list of favorite quotes:
 > "And don't tell me there isn't one bit of difference between null and space, because that's exactly how much difference there is." 
 <br>-- Larry Wall
 
+> "Unix is simple. It just takes a genius to understand its simplicity."
+<br>-- Dennis Ritchie
+
 > "Premature optimization is the root of all evil." 
 <br>-- D.E. Knuth
 
@@ -94,9 +97,6 @@ Here is my current list of favorite quotes:
 
 > "The memory management on the PowerPC can be used to frighten small children." 
 <br>-- Linus Torvalds
-
-> "Unix is simple. It just takes a genius to understand its simplicity." 
-<br>-- Dennis Ritchie
 
 ### Science
 
