@@ -2,7 +2,7 @@
 layout: post
 title:  "Disable touchpad in Linux"
 date:   2014-03-23 6:45:10
-categories: bash script disable Linux Touchpad xinput
+categories: Linux bash script Touchpad xinput
 ---
 One of the first thing I do whenever I install a new OS is to disable the annoying touchpad on the laptop. I  don't know about other people, but my touchpad never lets me type a single sentence without moving the cursor to someplace I don't want.
 
