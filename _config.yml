@@ -8,6 +8,11 @@ description: "This site is created using git, vim, jekyll, markdown, liquid and 
 baseurl: ""
 url: "samueljohnson.github.io"
 
+comments :
+  provider : disqus
+  disqus :
+    short_name : samueljohnson
+
 # Build settings
 markdown: kramdown
 permalinks: pretty
