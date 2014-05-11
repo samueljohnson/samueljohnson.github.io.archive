@@ -129,9 +129,6 @@ Here is my current list of favorite quotes:
 > "Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armor yourself in it, and it will never be used to hurt you."
 <br>-- Tyrion Lannister
 
-> "I'm not doubting your honour, I'm denying its existance." 
-<br>-- Tyrion Lannister
-
 > "You see, madness, as you know, is like gravity. All it takes is a little push!" 
 <br>-- The Joker
 
