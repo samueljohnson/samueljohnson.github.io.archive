@@ -6,7 +6,7 @@ categories: Linux Arch KDE Qt WM
 ---
 If you are just using a Window Manager (WM) like openbox, awesome etc without the full-fledged Desktop Environments (DE) like KDE, GNOME, etc, then applications build using Qt (VLC, Virtualbox, Google Earth, Scribus, etc) would look ugly. Like these:
 
-![screennshot]({{ site.url }}/assets/Qt-without-Oxygen.png
+![screennshot]({{ site.url }}/assets/Qt-without-Oxygen.png)
 
 A simple solution would be to:
 
