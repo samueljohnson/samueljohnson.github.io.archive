@@ -126,7 +126,7 @@ Here is my current list of favorite quotes:
 > "The universe is a pretty big place. It's bigger than anything anyone has ever dreamed of before. So if it's just us... seems like an awful waste of space. Right?" 
 <br>-- Ellie Arroway 
 
-> "Never forget who you are, for surely the world won't. Make it your strength. Then it can never be your weakness. Armor yourself in it, and it will never be used to hurt you." 
+> "Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armor yourself in it, and it will never be used to hurt you."
 <br>-- Tyrion Lannister
 
 > "I'm not doubting your honour, I'm denying its existance." 
