@@ -4,7 +4,7 @@ title: Scientist / Engineer - SC
 # email: samuel [at] prl.res.in
 organisation: Physical Research Laboratory
 username: samueljohnson
-description: "This simple and awesome site is created using git, vim, jekyll, markdown, liquid and other FOSS."
+description: "This site is created using git, vim, jekyll, markdown, liquid and other FOSS."
 baseurl: ""
 url: "samueljohnson.github.io"
 
