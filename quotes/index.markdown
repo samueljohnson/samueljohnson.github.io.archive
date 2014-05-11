@@ -48,13 +48,14 @@ Here is my current list of favorite quotes:
 > "Some people are so poor, all they have is money." 
 <br>-- Patrick Meagher 
 
-> "If I tell you I'm good, probably you will say I'm boasting. But if I tell you I'm not good, you'll know I'm lying." 
+> "If I tell you I'm good, probably you will say I'm boasting. But if I tell you I'm not good, you'll *know* I'm lying." 
 <br>-- Bruce Lee
 
 > "Remember that guy that gave up? Neither does no one else." 
 <br>-- Unknown
 
-> "We have guided missiles and misguided men." Martin Luther King, Jr
+> "We have guided missiles and misguided men."
+<br>-- Martin Luther King, Jr
 
 > "The man who says it can not be done should not interrupt the man doing it" 
 <br>-- Chinese Proverb
