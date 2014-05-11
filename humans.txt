@@ -17,10 +17,6 @@
 	Contact(O): 	samuel [at] prl {dot) res (dot} in
 	From:		Ahmedabad, Gujarat, India
 
-/* THANKS */
-
-	Github
-
 /* SITE */
 	Last update:	1399778076
 	Doctype:	HTML5
