@@ -76,9 +76,6 @@ Here is my current list of favorite quotes:
 > "Computer science is not about machines, in the same way that astronomy is not about telescopes." 
 <br>-- Michael R. Fellows
 
-> "And 1.1.81 is officially BugFree(tm), so if you receive any bug-reports on it, you know they are just evil lies." 
-<br>-- Linus Torvalds
-
 > "UNIX was not designed to stop you from doing stupid things, because that would also stop you from doing clever things." 
 <br>-- Doug Gwyn
 
