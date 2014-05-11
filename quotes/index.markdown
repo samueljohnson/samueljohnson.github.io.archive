@@ -27,9 +27,6 @@ Here is my current list of favorite quotes:
 > "A tiger doesn't lose sleep over the opinion of sheep." 
 <br>-- Anonymous
 
-> "Listen, smile, agree, and then do whatever the fuck you were gonna do anyway." 
-<br>-- Robert Downey Jr.
-
 > "Kindness is a language which the deaf can hear and the blind can see.” 
 <br>-- Mark Twain
 
@@ -62,7 +59,7 @@ Here is my current list of favorite quotes:
 > "The man who says it can not be done should not interrupt the man doing it" 
 <br>-- Chinese Proverb
 
-> "Never argue with an idiot, onlookers wont be able to tell the difference." 
+> "Never argue with an idiot, onlookers won't be able to tell the difference." 
 <br>-- Mark Twain
 
 > "Every man is guilty of all the good he did not do." 
@@ -131,7 +128,7 @@ Here is my current list of favorite quotes:
 > "The universe is a pretty big place. It's bigger than anything anyone has ever dreamed of before. So if it's just us... seems like an awful waste of space. Right?" 
 <br>-- Ellie Arroway 
 
-> "Never forget who you are, for surely the world wont. Make it your strength. Then it can never be your weakness. Armor yourself in it, and it will never be used to hurt you." 
+> "Never forget who you are, for surely the world won't. Make it your strength. Then it can never be your weakness. Armor yourself in it, and it will never be used to hurt you." 
 <br>-- Tyrion Lannister
 
 > "I'm not doubting your honour, I'm denying its existance." 
