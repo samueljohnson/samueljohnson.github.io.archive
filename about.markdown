@@ -14,6 +14,6 @@ My [Myers-Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type
 
 ## Contact
 
-Drop me a line at: my short first name (six letters) at Physical Research Laboratory's domain.
+Drop me a line at: my short first name (six letters) at Physical Research Laboratory's domain (prl [dot] res [dot] in).
 
 Download my [public GPG key](https://samueljohnson.github.com/assets/PRL_Public.asc) to encrypt email you send me if you like.
