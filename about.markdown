@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi there! My name is Samuel Johnson, and I’m a Scientist/Engineer working at [Physical Research Laboratory](http://www.isro.gov.in/isrocentres/prl.aspx).
 
-Few of my interests includes: Cryptography, IT Security, Penetration Testing, High Performance Computing, System Administration, Linux, Virtualization, GPGPU, Computer Forensics, Quantum Computing.
+Few of my interests includes: Cryptography, IT Security, Penetration Testing, High Performance Computing, System Administration, Linux, Virtualization, Programming, GPGPU, Computer Forensics, Quantum Computing.
 
 In my free time, I like to contribute to wikipedia, solve programming challenges and learn something new.
 
