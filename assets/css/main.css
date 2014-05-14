@@ -226,7 +226,7 @@ a:visited { color: #205caa; }
 .post-content ol { padding-left: 20px; }
 
 pre {
-	  white-space: pre-wrap;
+	  white-space: pre; overflow: auto; width:inherit; word-wrap: normal
 }
 
 pre, pre > code {
