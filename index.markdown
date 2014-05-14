@@ -6,8 +6,8 @@ title:  "Home"
 
 * [Slides/Presentations](https://docs.google.com/folderview?id=0Byuyn2ZpRQybNlFEUnhDSFh2Mzg){:target="_blank"}
 
-* [Favorite Quotes](http://samueljohnson.github.com/quotes)
+* [Favorite Quotes](/quotes)
 
-* [Public Key (prl)](https://samueljohnson.github.com/assets/txt/PRL_Public.asc){:target="_blank"}
+* [Public Key (prl)](/assets/txt/PRL_Public.asc){:target="_blank"}
 
 
