@@ -21,8 +21,8 @@ free software on the desktop and server.
 ### Achievements
 
   * [Certified](https://www.certmetrics.com/comptia/public/verification.aspx?code=LXRG9Z8K6LFE1RV4) in vendor-neutral **Comptia Linux+** Powered by **LPI**.
-  * Novell [Certified](https://docs.google.com/viewer?url=https://samueljohnson.github.io/assets/SamuelJohnson_NCLA_ECR.pdf) Linux Administrator.
-  * Certified in [LPIC-1 Certification](https://samueljohnson.github.io/assets/LPI%20LPIC-1.jpg) from Linux Professional Institute.
+  * Novell [Certified](https://docs.google.com/viewer?url=https://samueljohnson.github.io/assets/pdf/SamuelJohnson_NCLA_ECR.pdf) Linux Administrator.
+  * Certified in [LPIC-1 Certification](https://samueljohnson.github.io/assets/img/LPI%20LPIC-1.jpg) from Linux Professional Institute.
   * Won **First Prize** in Project Competition in National Symposium"COMPSEM-09" organized by Annamalai University.
   * **Published Paper** in International Journal of Engineering Research & Technology.
   * Successfully completed course on [Quantum Mechanics and Quantum Computation ](https://docs.google.com/viewer?url=http://samueljohnson.github.io/assets/CS191x- Quantum Mechanics and Quantum Computation.pdf) from **University of California, Berkeley**.
@@ -43,7 +43,7 @@ free software on the desktop and server.
 ### 1) Cell Phone Based Distant Object Control
 
 In this project, a remote [land
-rover](http://samueljohnson.github.com/assets/13032009263.jpg) was controlled using
+rover](http://samueljohnson.github.com/assets/img/13032009263.jpg) was controlled using
 **DTMF tones** from a cellular device. Unlike the traditional remote control
 which has a limited range, a cell phone covers the entire Earth. The video
 camera on the cell phone could also be used to transmit live feed back.

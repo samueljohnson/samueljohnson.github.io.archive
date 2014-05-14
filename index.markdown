@@ -8,6 +8,6 @@ title:  "Home"
 
 * [Favorite Quotes](http://samueljohnson.github.com/quotes)
 
-* [Public Key (prl)](https://samueljohnson.github.com/assets/PRL_Public.asc){:target="_blank"}
+* [Public Key (prl)](https://samueljohnson.github.com/assets/txt/PRL_Public.asc){:target="_blank"}
 
 
