@@ -1,6 +1,10 @@
 /* Base */
 /* ----------------------------------------------------------*/
 
+img {
+  width: 100%;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -417,5 +421,5 @@ pre, pre > code {
     clear: both;
     width: auto;
     margin: 0 0 15px; }
-
 }
+

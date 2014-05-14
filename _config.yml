@@ -14,8 +14,8 @@ comments :
     short_name : samueljohnson
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 #permalinks: pretty
-permalink: /:year/:month/:title/
+permalink: /blog/:year/:month/:day/:title/
 gems:
           - jekyll-sitemap
