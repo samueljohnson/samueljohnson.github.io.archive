@@ -225,6 +225,22 @@ a:visited { color: #205caa; }
 .post-content ul,
 .post-content ol { padding-left: 20px; }
 
+pre {
+	  white-space: pre-wrap;
+}
+
+pre, pre > code {
+  /* Make more code fit on small screens */
+  font-size: 14px;
+}
+
+@media only screen and (min-width: 481px) {
+  pre, pre > code {
+    /* Bigger font on bigger screens */
+    font-size: 16px;
+  }
+}
+
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;

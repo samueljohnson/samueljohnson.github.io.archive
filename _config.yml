@@ -15,4 +15,5 @@ comments :
 
 # Build settings
 markdown: kramdown
-permalinks: pretty
+#permalinks: pretty
+permalink: /:title/
