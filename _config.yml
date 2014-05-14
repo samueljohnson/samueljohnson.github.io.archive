@@ -17,5 +17,5 @@ comments :
 markdown: kramdown
 #permalinks: pretty
 permalink: /:year/:month/:title/
-#gems:
-#          - jekyll-sitemap
+gems:
+          - jekyll-sitemap
