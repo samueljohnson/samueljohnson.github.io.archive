@@ -14,7 +14,7 @@ comments :
     short_name : samueljohnson
 
 # Build settings
-#markdown: kramdown
+markdown: kramdown
 #permalinks: pretty
 permalink: /blog/:year/:month/:day/:title/
 gems:
