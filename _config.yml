@@ -16,6 +16,6 @@ comments :
 # Build settings
 markdown: kramdown
 #permalinks: pretty
-permalink: /:title/
-gems:
-          - jekyll-sitemap
+permalink: /:year/:month/:title/
+#gems:
+#          - jekyll-sitemap
