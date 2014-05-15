@@ -27,7 +27,7 @@ free software on the desktop and server.
   * Certified in [LPIC-1 Certification](/assets/img/LPI%20LPIC-1.jpg) from Linux Professional Institute.
   * Won **First Prize** in Project Competition in National Symposium"COMPSEM-09" organized by Annamalai University.
   * **Published Paper** in International Journal of Engineering Research & Technology.
-  * Successfully completed course on [Quantum Mechanics and Quantum Computation ](https://docs.google.com/viewer?url=http://samueljohnson.github.io/assets/CS191x- Quantum Mechanics and Quantum Computation.pdf) from **University of California, Berkeley**.
+  * Successfully completed course on [Quantum Mechanics and Quantum Computation ](https://docs.google.com/viewer?url=http://samueljohnson.github.io/assets/pdf/CS191x- Quantum Mechanics and Quantum Computation.pdf) from **University of California, Berkeley**.
   * **Presented Paper** in National Symposium "COMPSEM-09".
   * Secured **91 Percentile** in 6th NIIT **National IT Aptitude Test**.
 
