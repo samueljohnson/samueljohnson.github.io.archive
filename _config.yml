@@ -1,10 +1,10 @@
 # Site settings
 name: Samuel Johnson
 title: Scientist / Engineer - SC
-# email: samuel [at] prl.res.in
+# email: my short first name (six letters) at Physical Research Laboratory’s domain (prl [dot] res [dot] in)
 organisation: Physical Research Laboratory
 username: samueljohnson
-description: "This site is created using git, jekyll, liquid, markdown, pygments, vim and other FOSS."
+description: "This page is created using git, jekyll, liquid, markdown, pygments, vim and other open-source software."
 baseurl: ""
 url: "samueljohnson.github.io"
 
