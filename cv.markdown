@@ -4,8 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-
-
 ----
 
 ## Profile

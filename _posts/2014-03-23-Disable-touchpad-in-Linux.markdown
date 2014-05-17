@@ -4,6 +4,7 @@ title:  "Disable touchpad in Linux"
 date:   2014-03-23 6:45:10
 category: Linux
 ---
+
 One of the first thing I do whenever I install a new OS is to disable the annoying touchpad on the laptop. I  don't know about other people, but my touchpad never lets me type a single sentence without moving the cursor to someplace I don't want.
 
 The following works on Arch Linux. If you are using something else, your mileage may vary.
