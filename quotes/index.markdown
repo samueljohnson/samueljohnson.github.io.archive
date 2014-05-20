@@ -117,9 +117,6 @@ Here is my current list of favorite quotes:
 > "It's not who I am underneath... but what I *do*... that defines me." 
 <br>-- Bruce Wayne
 
-> "Me? I'm dishonest, and a dishonest man you can always trust to be dishonest. Honestly. It's the honest ones you want to watch out for, because you can never predict when they're going to do something incredibly... stupid." 
-<br>-- Jack Sparrow
-
 > "Hope is a good thing, maybe the best of things, and no good thing ever dies." 
 <br>-- Andy Dufresne
 
@@ -128,9 +125,6 @@ Here is my current list of favorite quotes:
 
 > "Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armor yourself in it, and it will never be used to hurt you."
 <br>-- Tyrion Lannister
-
-> "You see, madness, as you know, is like gravity. All it takes is a little push!" 
-<br>-- The Joker
 
 > "If you're good at something, never do it for free." 
 <br>-- The Joker
