@@ -18,6 +18,8 @@ Drop me a line at: my short first name (six letters) at Physical Research Labora
 
 Download my [public GPG key](/assets/txt/PRL_Public.asc) to encrypt email you send me if you like.
 
+Or use the form below and I'll get back to you.
+
 ----
 
   <form method="POST" action="http://forms.brace.io/esamueljohnson@gmail.com">
