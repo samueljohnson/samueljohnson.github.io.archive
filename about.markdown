@@ -29,7 +29,7 @@ Or use the form below and I'll get back to you.
    </div>
     
    <div class="form-group">
-   <label for="exampleInputEmail1">Email address</label>
+   <label for="exampleInputEmail1">Your E-mail address</label>
    <input name="_replyto" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
    </div>
     
