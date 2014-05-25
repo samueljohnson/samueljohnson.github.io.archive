@@ -29,6 +29,17 @@ free software on the desktop and server.
   * **Presented Paper** in National Symposium "COMPSEM-09".
   * Secured **91 Percentile** in 6th NIIT **National IT Aptitude Test**.
 
+### Research and Interest Area
+
+  * Cryptography
+  * IT Security
+  * Penetration Testing
+  * High Performance Computing
+  * System Administration
+  * Virtualization
+  * Computer Forensics
+  * Quantum Computing
+
 ### Publications
 
   * **Samuel Johnson**, Pruthvirajsinh R. Chauhan and Gardas Naresh Kumar
@@ -42,6 +53,14 @@ free software on the desktop and server.
   * Jigar A. Raval and **Samuel Johnson**
 <br> *Port Knocking - An Additional Layer of Security for SSH and HTTPS*
 <br> The 2013 International Conference on Security and Management, Las Vegas, USA, Jul 22 - 25
+
+### Talk
+
+  * *'Securing E-mail Transfer'* in which incidents of E-mail threats, SMTP Authentication and E-mail statistics were covered.  Jan 29 - 2014, PRL, Ahmedabad
+  *  *'Securing E-mail at PRL'* in which various attack vectors, brief working of e-mail
+system, PRL e-mail deployment, Horde webmail, and a secure way to access webmail were covered. Jul 10 - 2013, PRL Ahmedabad
+  * *'Virtualization and Disaster Recovery (for PCs)'* outlining benefits of (local
+desktop) virtualization technology. Mar 15 - 2013, PRL Ahmedabad.
 
 ----
 
@@ -96,4 +115,6 @@ to this tool.
   * Implemented VPN access for Linux users.
   * Deployed new mail system based on Horde framework and successfully migrated existing user data from squirrelmail.
   * Coded and implemented a tool from scratch to inform sysadmins (and users) of misuse of IP in a network.
+  * Deployed two ISPs in Load Balancing and fail-safe mode so as to have a complete
+utilization of both networks and at the same time have redundancy in case one of the ISP is down.
 
