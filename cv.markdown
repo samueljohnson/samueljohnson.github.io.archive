@@ -26,17 +26,6 @@ free software on the desktop and server.
   * Certified in [LPIC-1 Certification](/assets/img/LPI%20LPIC-1.jpg) from Linux Professional Institute.
   * [Quantum Mechanics and Quantum Computation ](https://docs.google.com/viewer?url=http://samueljohnson.github.io/assets/pdf/CS191x- Quantum Mechanics and Quantum Computation.pdf) from **University of California, Berkeley**.
 
-### Interest Area
-
-  * Cryptography
-  * IT Security
-  * Penetration Testing
-  * High Performance Computing
-  * System Administration
-  * Virtualization
-  * Computer Forensics
-  * Quantum Computing
-
 ### Publications
 
   * **Samuel Johnson**, Pruthvirajsinh R. Chauhan and Gardas Naresh Kumar
