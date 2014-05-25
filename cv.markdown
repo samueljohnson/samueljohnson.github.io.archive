@@ -29,7 +29,7 @@ free software on the desktop and server.
   * **Presented Paper** in National Symposium "COMPSEM-09".
   * Secured **91 Percentile** in 6th NIIT **National IT Aptitude Test**.
 
-### Selected Publications
+### Publications
 
   * **Samuel Johnson**, Pruthvirajsinh R. Chauhan and Gardas Naresh Kumar
 <br> *Novel GPG Key Server using DNS based Authority Delegation*
