@@ -3,6 +3,11 @@
     {% if page.url == "/404.html" %}
     	<meta http-equiv="refresh" content="5; url=/">
     {% endif %}
+
+    {% if page.url == "/about/" %}
+        <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+    {% endif %}
+
     <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">

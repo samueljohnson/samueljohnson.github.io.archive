@@ -17,3 +17,24 @@ My [Myers-Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type
 Drop me a line at: my short first name (six letters) at Physical Research Laboratory's domain (prl [dot] res [dot] in).
 
 Download my [public GPG key](/assets/txt/PRL_Public.asc) to encrypt email you send me if you like.
+
+----
+
+  <form method="POST" action="http://forms.brace.io/esamueljohnson@gmail.com">
+   <div class="form-group">
+   <label for="exampleInputName">Name</label>
+   <input name="name" type="name" class="form-control" id="exampleInputName" placeholder="Enter name">
+   </div>
+    
+   <div class="form-group">
+   <label for="exampleInputEmail1">Email address</label>
+   <input name="_replyto" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+   </div>
+    
+   <div class="form-group">
+   <label for="exampleTextArea">Message</label>
+   <textarea name="message" class="form-control" rows="3"></textarea>    
+   </div>
+      
+   <button type="submit" class="btn btn-primary">Submit</button>
+
