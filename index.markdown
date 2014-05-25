@@ -10,4 +10,3 @@ title:  "Home"
 
 * [Public Key (prl)](/assets/txt/PRL_Public.asc){:target="_blank"}
 
-

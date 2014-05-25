@@ -16,7 +16,8 @@ free software on the desktop and server.
 ## Skills
 
   * Programming Languages: C, C++, Java, Shell Scripting.
-  * Software: Git, Vim, Adobe Photoshop, OS X, Arch Linux, Geany, KVM, VirtualBox
+  * Software: Git, Vim, Adobe Photoshop, OS X, Arch Linux, Geany, KVM, VirtualBox,
+  * Human Languages: Tamil, Hindi, English, Telugu
 
 ### Achievements
 
@@ -24,10 +25,23 @@ free software on the desktop and server.
   * Novell [Certified](https://docs.google.com/viewer?url=https://samueljohnson.github.io/assets/pdf/SamuelJohnson_NCLA_ECR.pdf) Linux Administrator.
   * Certified in [LPIC-1 Certification](/assets/img/LPI%20LPIC-1.jpg) from Linux Professional Institute.
   * Won **First Prize** in Project Competition in National Symposium"COMPSEM-09" organized by Annamalai University.
-  * **Published Paper** in International Journal of Engineering Research & Technology.
   * Successfully completed course on [Quantum Mechanics and Quantum Computation ](https://docs.google.com/viewer?url=http://samueljohnson.github.io/assets/pdf/CS191x- Quantum Mechanics and Quantum Computation.pdf) from **University of California, Berkeley**.
   * **Presented Paper** in National Symposium "COMPSEM-09".
   * Secured **91 Percentile** in 6th NIIT **National IT Aptitude Test**.
+
+### Selected Publications
+
+  * **Samuel Johnson**, Pruthvirajsinh R. Chauhan and Gardas Naresh Kumar
+<br> *Novel GPG Key Server using DNS based Authority Delegation*
+<br> International Journal of Engineering Research & Technology, Vol. 3 Issue 5, May - 2014
+
+  * Pruthvirajsinh R. Chauhan, **Samuel Johnson** and Gardas Naresh Kumar
+<br> *A Review of Completely Public, PGP Public Key Servers*
+<br> International Journal of Engineering Research & Technology, Vol. 2 Issue 12, Dec - 2013
+
+  * Jigar A. Raval and **Samuel Johnson**
+<br> *Port Knocking - An Additional Layer of Security for SSH and HTTPS*
+<br> The 2013 International Conference on Security and Management, Las Vegas, USA, Jul 22 - 25
 
 ----
 
