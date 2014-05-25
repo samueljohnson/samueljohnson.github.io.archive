@@ -19,17 +19,14 @@ free software on the desktop and server.
   * Software: Git, Vim, Adobe Photoshop, OS X, Arch Linux, Geany, KVM, VirtualBox,
   * Human Languages: Tamil, Hindi, English, Telugu
 
-### Achievements
+### Professional Qualifications
 
   * [Certified](https://www.certmetrics.com/comptia/public/verification.aspx?code=LXRG9Z8K6LFE1RV4) in vendor-neutral **Comptia Linux+** Powered by **LPI**.
   * Novell [Certified](https://docs.google.com/viewer?url=https://samueljohnson.github.io/assets/pdf/SamuelJohnson_NCLA_ECR.pdf) Linux Administrator.
   * Certified in [LPIC-1 Certification](/assets/img/LPI%20LPIC-1.jpg) from Linux Professional Institute.
-  * Won **First Prize** in Project Competition in National Symposium"COMPSEM-09" organized by Annamalai University.
-  * Successfully completed course on [Quantum Mechanics and Quantum Computation ](https://docs.google.com/viewer?url=http://samueljohnson.github.io/assets/pdf/CS191x- Quantum Mechanics and Quantum Computation.pdf) from **University of California, Berkeley**.
-  * **Presented Paper** in National Symposium "COMPSEM-09".
-  * Secured **91 Percentile** in 6th NIIT **National IT Aptitude Test**.
+  * [Quantum Mechanics and Quantum Computation ](https://docs.google.com/viewer?url=http://samueljohnson.github.io/assets/pdf/CS191x- Quantum Mechanics and Quantum Computation.pdf) from **University of California, Berkeley**.
 
-### Research and Interest Area
+### Interest Area
 
   * Cryptography
   * IT Security
@@ -56,11 +53,10 @@ free software on the desktop and server.
 
 ### Talk
 
-  * *'Securing E-mail Transfer'* in which incidents of E-mail threats, SMTP Authentication and E-mail statistics were covered.  Jan 29 - 2014, PRL, Ahmedabad
-  *  *'Securing E-mail at PRL'* in which various attack vectors, brief working of e-mail
-system, PRL e-mail deployment, Horde webmail, and a secure way to access webmail were covered. Jul 10 - 2013, PRL Ahmedabad
-  * *'Virtualization and Disaster Recovery (for PCs)'* outlining benefits of (local
-desktop) virtualization technology. Mar 15 - 2013, PRL Ahmedabad.
+  * '*Securing E-mail Transfer*', Jan 29 - 2014, PRL, Ahmedabad.
+  *  '*Securing E-mail at PRL*', Jul 10 - 2013, PRL Ahmedabad.
+  * '*Virtualization and Disaster Recovery (for PCs)*', Mar 15 - 2013, PRL Ahmedabad.
+  * '*Controlling Distant Objects Using Cell Phone*', Apr 6 - 2009, National Symposium "COMPSEM '2K9", Annamalai University, India.
 
 ----
 
@@ -81,7 +77,7 @@ rover](/assets/img/13032009263.jpg) was controlled using
 which has a limited range, a cell phone covers the entire Earth. The video
 camera on the cell phone could also be used to transmit live feed back.
 
-This project fetched **first prize** in the National Symposium "COMPSEM-09"
+This project won **first prize** in the National Symposium "COMPSEM-09"
 organized by Annamalai University in year 2009.
 
 ### 2) Visual Speech Synthesis
@@ -96,10 +92,8 @@ accent**.
 ### 3) Steganography Removal
 
 The project deals with creation of a tool which removes steganographic content
-from a file. The idea is to implement the
-[tool](https://github.com/samueljohnson/stegr/blob/master/stegr.c) in
-corporate environment's mail server, where every outgoing e-mail is first sent
-to this tool.
+from a file. The idea is to implement the tool in corporate environment's mail server,
+where every outgoing e-mail is first sent to this tool.
 
 ----
 
@@ -115,6 +109,6 @@ to this tool.
   * Implemented VPN access for Linux users.
   * Deployed new mail system based on Horde framework and successfully migrated existing user data from squirrelmail.
   * Coded and implemented a tool from scratch to inform sysadmins (and users) of misuse of IP in a network.
-  * Deployed two ISPs in Load Balancing and fail-safe mode so as to have a complete
+  * Deployed two ISPs in load balancing *and* fail-safe mode so as to have a complete
 utilization of both networks and at the same time have redundancy in case one of the ISP is down.
 
