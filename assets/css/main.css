@@ -12,6 +12,8 @@ img {
 
 html, body { height: 100%; }
 
+strong { font-weight: bold; }
+
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
