@@ -25,12 +25,12 @@ Or use the form below and I'll get back to you.
   <form method="POST" action="http://forms.brace.io/esamueljohnson@gmail.com">
    <div class="form-group">
    <label for="exampleInputName">Name</label>
-   <input name="name" type="name" class="form-control" id="exampleInputName" placeholder="Enter name">
+   <input name="name" type="name" class="form-control" id="exampleInputName" placeholder="Enter your name">
    </div>
     
    <div class="form-group">
-   <label for="exampleInputEmail1">Your E-mail address</label>
-   <input name="_replyto" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+   <label for="exampleInputEmail1">E-mail</label>
+   <input name="_replyto" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter your E-mail address">
    </div>
     
    <div class="form-group">
