@@ -7,7 +7,7 @@ category: Linux
 
 One of the first thing I do whenever I install a new OS is to disable the annoying touchpad on the laptop. It always seem to get in my way while typing.
 
-The following steps has been tested and works on Arch Linux, it should however also work on other distro's as well.
+The following steps has been tested on Arch Linux, it should however also work on other distro's as well.
 
 #### 1) Find out the name of your touchpad device. Mine is "Elantech Touchpad".
 
