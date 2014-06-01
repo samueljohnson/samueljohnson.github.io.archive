@@ -6,14 +6,14 @@ permalink: /cv/
 
 ----
 
-<h2><img alt ="Profile" src="/assets/img/icons/experience.png" align="top">Profile</h2>
+## Profile
 
 A motivated individual with an expert knowledge of programming Linux and using
 free software on the desktop and server.
 
 ----
 
-<h2><img alt ="Skills" src="/assets/img/icons/skills.png" align="top">Skills</h2>
+## Skills
 
   * Programming Languages: C, C++, Java, Shell Scripting.
   * Software: Git, Vim, Adobe Photoshop, OS X, Arch Linux, Geany, KVM, VirtualBox,
@@ -49,14 +49,14 @@ free software on the desktop and server.
 
 ----
 
-<h2><img alt ="Education" src="/assets/img/icons/education.png" align="top">Education</h2>
+## Education
 
   * First class degree, M.Tech in **Information Security and Computer Forensics** from SRM University. 2010 - 2012
   * First class degree with **distinction**, B.E. in **Computing Science** from Annamalai University. 2006 - 2010
 
 ----
 
-<h2><img alt ="Projecs Undertaken" src="/assets/img/icons/projects.png" align="top">Projects Undertaken</h2>
+## Projecs Undertaken
 
 ### 1) Cell Phone Based Distant Object Control
 
@@ -86,7 +86,7 @@ where every outgoing e-mail is first sent to this tool.
 
 ----
 
-<h2><img alt ="Work Experience" src="/assets/img/icons/agency.jpg" align="top">Work Experience</h2>
+## Work Experience
 
 ### Physical Research Laboratory, July 2012 - Current
 
