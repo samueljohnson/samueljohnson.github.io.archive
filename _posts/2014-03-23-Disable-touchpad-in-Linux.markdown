@@ -5,11 +5,11 @@ date:   2014-03-23 6:45:10
 category: Linux
 ---
 
-One of the first thing I do whenever I install a new OS is to disable the annoying touchpad on the laptop. I  don't know about other people, but my touchpad never lets me type a single sentence without moving the cursor to someplace I don't want.
+One of the first thing I do whenever I install a new OS is to disable the annoying touchpad on the laptop. It always seem to get in my way while typing.
 
-The following works on Arch Linux. If you are using something else, your mileage may vary.
+The following steps has been tested and works on Arch Linux, it should however also work on other distro's as well.
 
-1) Find out the name of your touchpad device. Mine is "Elantech Touchpad".
+#### 1) Find out the name of your touchpad device. Mine is "Elantech Touchpad".
 
 {% highlight bash %}
 bash $ xinput --list
@@ -29,7 +29,7 @@ bash $ xinput --list
 ↳ AT Translated Set 2 keyboard id=14 [slave keyboard (3)]
 {% endhighlight %}
 
-2) Replace "Your touchpad here" in the following script with the name of your touchpad device.
+#### 2) Replace "Your touchpad here" in the following script with the name of your touchpad device.
 
 {% highlight bash %}
 #!/bin/bash
@@ -41,9 +41,9 @@ xinput --set-prop "Your touchpad here" "Device Enabled" 1
 fi
 {% endhighlight %}
 
-3) Make the bash script executable, run it and add it to your autostart list.
+#### 3) Make the bash script executable, run it and add it to your autostart list.
 {% highlight bash %}
 chmod +x trackpad-toggle.sh
 {% endhighlight %}
 
-4) Note that it is a toggle script. You can also assign a specific key binding to toggle touchpad on or off.
+#### 4) Note that it is a toggle script. You can also assign a specific key binding to toggle touchpad on or off.
