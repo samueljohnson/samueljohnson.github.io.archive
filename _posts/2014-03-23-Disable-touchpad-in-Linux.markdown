@@ -12,7 +12,7 @@ The following steps has been tested on Arch Linux, it should however also work o
 #### 1) Find out the name of your touchpad device. Mine is "Elantech Touchpad".
 
 {% highlight bash %}
-bash $ xinput --list
+$ xinput --list
 ⎡ Virtual core pointer id=2 [master pointer (3)]
 ⎜ ↳ Virtual core XTEST pointer id=4 [slave pointer (2)]
 ⎜ ↳ RAPOO RAPOO 5G Wireless Device id=11 [slave pointer (2)]
@@ -29,7 +29,7 @@ bash $ xinput --list
 ↳ AT Translated Set 2 keyboard id=14 [slave keyboard (3)]
 {% endhighlight %}
 
-#### 2) Replace "Your touchpad here" in the following script with the name of your touchpad device.
+#### 2) Replace "Your touchpad here" in the following script with the name of your touchpad device and save it as 'trackpad-toggle.sh'.
 
 {% highlight bash %}
 #!/bin/bash
@@ -43,7 +43,7 @@ fi
 
 #### 3) Make the bash script executable, run it and add it to your autostart list.
 {% highlight bash %}
-chmod +x trackpad-toggle.sh
+$ chmod +x trackpad-toggle.sh
 {% endhighlight %}
 
 #### 4) Note that it is a toggle script. You can also assign a specific key binding to toggle touchpad on or off.

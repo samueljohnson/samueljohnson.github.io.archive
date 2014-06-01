@@ -5,8 +5,9 @@ title: "Blog"
 
 <div class="home">
 
-  <h1>This blog servers to help wandering souls in finding solutions to technical problems that I once faced<h1>
-
+This blog servers to help wandering souls in finding solutions to technical problems that I once faced.
+<br>
+<br>
   <ul class="posts">
     {% for post in site.posts %}
       <li>
@@ -15,7 +16,9 @@ title: "Blog"
       </li>
     {% endfor %}
   </ul>
-
+The opinions expressed here represent my own and not those of my employer.
+<br>
+<br>
   <p class="rss-subscribe">subscribe <a href="{{ "/blog/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
