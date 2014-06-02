@@ -9,7 +9,7 @@ One of the first thing I do whenever I install a new OS is to disable the annoyi
 
 The following steps has been tested on Arch Linux, it should however also work on other distributions of Linux.
 
-#### 1) Find out the name of your touchpad device. Mine is "Elantech Touchpad".
+1) Find out the name of your touchpad device. Mine is "Elantech Touchpad".
 
 {% highlight bash %}
 $ xinput --list
@@ -29,7 +29,7 @@ $ xinput --list
 ↳ AT Translated Set 2 keyboard id=14 [slave keyboard (3)]
 {% endhighlight %}
 
-#### 2) Replace "Your touchpad here" in the following script with the name of your touchpad device and save it as 'trackpad-toggle.sh'.
+2) Replace "Your touchpad here" in the following script with the name of your touchpad device and save it as 'trackpad-toggle.sh'.
 
 {% highlight bash %}
 #!/bin/bash
@@ -41,9 +41,9 @@ xinput --set-prop "Your touchpad here" "Device Enabled" 1
 fi
 {% endhighlight %}
 
-#### 3) Make the bash script executable, run it and add it to your autostart list.
+3) Make the bash script executable, run it and add it to your autostart list.
 {% highlight bash %}
 $ chmod +x trackpad-toggle.sh
 {% endhighlight %}
 
-#### 4) Note that it is a toggle script. You can also assign a specific key binding to toggle touchpad on or off.
+4) Note that it is a toggle script. You can also assign a specific key binding to toggle touchpad on or off.
