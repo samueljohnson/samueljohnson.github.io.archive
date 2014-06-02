@@ -60,6 +60,8 @@ free software on the desktop and server.
 
 ### 1) Cell Phone Based Distant Object Control
 
+#### Platform: Circuit Board
+
 In this project, a remote [land
 rover](/assets/img/13032009263.jpg) was controlled using
 **DTMF tones** from a cellular device. Unlike the traditional remote control
@@ -71,14 +73,24 @@ organized by Annamalai University in year 2009.
 
 ### 2) Visual Speech Synthesis
 
-In this project, a Visual C++ based software was implemented to convert an
+#### Platform: Visual C++
+
+In this project, a software was implemented to convert an
 input text into an audiovisual speech stream and play it **incorporating the
 head and eye movements** of a human being in real-time. Instead of relying on
 existing speech engines(like Festival), a new engine is created which
 **resolves ambiguities** in English language properly and has an **Indian
 accent**.
 
-### 3) Steganography Removal
+### 3) IPwatch
+
+#### Platform: C
+
+This tool informs sysadmins (and optionally users) of any misuse of IP in a network.
+
+### 4) Steganography Removal
+
+#### Platform: C
 
 The project deals with creation of a tool which removes steganographic content
 from a file. The idea is to implement the tool in corporate environment's mail server,
