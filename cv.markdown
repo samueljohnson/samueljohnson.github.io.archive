@@ -28,16 +28,16 @@ free software on the desktop and server.
 
 ### Publications
 
-  * **Samuel Johnson**, Pruthvirajsinh R. Chauhan and Gardas Naresh Kumar
-<br> *Novel GPG Key Server using DNS based Authority Delegation*
+  * *Novel GPG Key Server using DNS based Authority Delegation*
+<br> **Samuel Johnson**, Pruthvirajsinh R. Chauhan and Gardas Naresh Kumar
 <br> International Journal of Engineering Research & Technology, Vol. 3 Issue 5, May - 2014
 
-  * Pruthvirajsinh R. Chauhan, **Samuel Johnson** and Gardas Naresh Kumar
-<br> *A Review of Completely Public, PGP Public Key Servers*
+  * *A Review of Completely Public, PGP Public Key Servers*
+<br> Pruthvirajsinh R. Chauhan, **Samuel Johnson** and Gardas Naresh Kumar
 <br> International Journal of Engineering Research & Technology, Vol. 2 Issue 12, Dec - 2013
 
-  * Jigar A. Raval and **Samuel Johnson**
-<br> *Port Knocking - An Additional Layer of Security for SSH and HTTPS*
+  * *Port Knocking - An Additional Layer of Security for SSH and HTTPS*
+<br> Jigar A. Raval and **Samuel Johnson**
 <br> The 2013 International Conference on Security and Management, Las Vegas, USA, Jul 22 - 25
 
 ### Talk
