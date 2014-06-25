@@ -12,9 +12,9 @@ As you enter Unity mode, the VMware player window minimizes to the taskbar. This
 To fix this issue, on Linux with Openbox WM, add the following lines to your ~/.config/openbox/rc.xml
 
 {% highlight bash %}
-<application title="Loading... - VMware Workstation">
-<skip_taskbar>yes</skip_taskbar>
-</application>
+   <application name="vmware">
+    <skip_taskbar>yes</skip_taskbar>
+   </application>
 {% endhighlight %}
 
 On Windows: 
