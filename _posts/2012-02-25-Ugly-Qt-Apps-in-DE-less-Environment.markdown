@@ -4,7 +4,7 @@ title:  "Ugly Qt apps in DE less environment"
 date:   2012-02-25 6:45:10
 category: Linux
 ---
-If you are just using a Window Manager (WM) like openbox, awesome etc without the full-fledged Desktop Environments (DE) like KDE, GNOME, etc, then applications build using Qt (VLC, Virtualbox, Google Earth, Scribus, etc) might look ugly. Like these:
+If you are just using a Window Manager (WM) like openbox, awesome, etc without the full-fledged Desktop Environments (DE) like KDE, GNOME, etc, then applications build using Qt (VLC, Virtualbox, Google Earth, Scribus, etc) might look ugly. Like these:
 
 <img alt ="Screenshot" src="/assets/img/Qt-without-Oxygen.png" width="100%">
 
