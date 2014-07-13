@@ -15,8 +15,8 @@ free software on the desktop and server.
 
 ## Skills
 
-  * Programming Languages: C, C++, R, Java, Shell Scripting.
-  * Software: Git, Vim, Adobe Photoshop, OS X, RStudio, Arch Linux, Geany, KVM, VirtualBox,
+  * Programming Languages: C, C++, Java, R, Shell Scripting.
+  * Software: Git, Vim, Adobe Photoshop, OS X, RStudio, Dia, Arch Linux, Geany, KVM, VirtualBox.
   * Human Languages: Tamil, Hindi, English, Telugu
 
 ### Professional Qualifications
