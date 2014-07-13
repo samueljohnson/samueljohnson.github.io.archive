@@ -56,7 +56,7 @@ free software on the desktop and server.
 
 ----
 
-## Projecs Undertaken
+## Projects Undertaken
 
 ### 1) Cell Phone Based Distant Object Control
 
@@ -86,7 +86,7 @@ accent**.
 
 #### Platform: C
 
-This tool informs sysadmins (and optionally users) of any misuse of IP in a network.
+[IPwatch](https://github.com/samueljohnson/IPwatch/blob/master/ipwatch.c) maintains a database (sqlite3) of IP address that are assigned to MAC addresses and informs sysadmins (and optionally users) of any misuse of IP in a network.
 
 ### 4) Steganography Removal
 
@@ -102,7 +102,7 @@ where every outgoing e-mail is first sent to this tool.
 
 ### Physical Research Laboratory, July 2012 - Current
 
-#### Desgination : Scientist / Engineer - SC
+#### Designation : Scientist / Engineer - SC
 
   * Deployed KVM based hypervisor and migrated physical servers to virtual machines.
   * Enforced campus wide SMTP and IMAP SSL encryption.
