@@ -20,6 +20,12 @@ Download my [public GPG key](/assets/txt/PRL_Public.asc) to encrypt email you se
 
 Or use the form below and I'll get back to you.
 
+If you'd like to talk:
+
+Mob: +91-9408451909
+Home: +91-79-26360183
+Office: +91-79-26314036
+
 ----
 
   <form method="POST" action="http://forms.brace.io/esamueljohnson@gmail.com">
