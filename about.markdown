@@ -23,7 +23,6 @@ Or use the form below and I'll get back to you.
 If you'd like to talk:
 
 Mobile: +91-9408451908<br>
-Home: +91-79-26360183<br>
 Office: +91-79-26314036<br>
 
 ----
