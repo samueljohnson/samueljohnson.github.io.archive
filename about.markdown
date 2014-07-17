@@ -22,9 +22,9 @@ Or use the form below and I'll get back to you.
 
 If you'd like to talk:
 
-Mob: +91-9408451909
-Home: +91-79-26360183
-Office: +91-79-26314036
+Mob: +91-9408451909<br>
+Home: +91-79-26360183<br>
+Office: +91-79-26314036<br>
 
 ----
 
