@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+
 Hi there! My name is Samuel Johnson, I’m a Scientist/Engineer working at [Physical Research Laboratory](http://www.isro.gov.in/isrocentres/prl.aspx).
 
 Few of my interests includes: Cryptography, IT Security, Penetration Testing, Programming, High Performance Computing, System Administration, Virtualization, Computer Forensics, Quantum Computing.
@@ -26,6 +27,7 @@ Mobile: +91-9408-451-908<br>
 Office: +91-79-2631-4036<br>
 
 ----
+<!--<hr style="border-color:black;">-->
 
   <form method="POST" action="http://forms.brace.io/esamueljohnson@gmail.com">
    <div class="form-group">
