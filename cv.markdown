@@ -17,7 +17,6 @@ free software on the desktop and server.
 
   * Programming Languages: C, C++, Java, R, Shell Scripting.
   * Software: Git, Vim, Adobe Photoshop, OS X, RStudio, Dia, Arch Linux, Geany, KVM, VirtualBox.
-  * Human Languages: Tamil, Hindi, English, Telugu
 
 ### Professional Qualifications
 
