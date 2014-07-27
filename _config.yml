@@ -6,7 +6,7 @@ organisation: Physical Research Laboratory
 username: samueljohnson
 description: "This page is created using git, jekyll, liquid, markdown, pygments, vim and other open-source software."
 baseurl: ""
-url: "samueljohnson.github.io"
+url: "samueljohnson.io"
 
 comments :
   provider : disqus
