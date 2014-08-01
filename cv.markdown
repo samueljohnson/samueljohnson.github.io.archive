@@ -61,7 +61,7 @@ free software on the desktop and server.
 
 #### Platform: Circuit Board
 
-The aim of the project was to build a [Remote-controlled car](/assets/img/13032009263.jpg) that can be controlled
+The aim of the project was to build a [remote-controlled car](/assets/img/13032009263.jpg) that can be controlled
 using [**DTMF tones**](http://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling)
 of a cellphone. The idea was to build a remote control which has the 
 entire world as its range since cell phone reception has a global coverage.
