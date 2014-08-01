@@ -42,8 +42,8 @@ free software on the desktop and server.
 ### Talk
 
   * '*Securing E-mail Transfer*', Jan 29 - 2014, PRL, Ahmedabad.
-  *  '*Securing E-mail at PRL*', Jul 10 - 2013, PRL Ahmedabad.
-  * '*Virtualization and Disaster Recovery (for PCs)*', Mar 15 - 2013, PRL Ahmedabad.
+  *  '*Securing E-mail at PRL*', Jul 10 - 2013, PRL, Ahmedabad.
+  * '*Virtualization and Disaster Recovery (for PCs)*', Mar 15 - 2013, PRL, Ahmedabad.
   * '*Controlling Distant Objects Using Cell Phone*', Apr 6 - 2009, National Symposium "COMPSEM '2K9", Annamalai University, India.
 
 ----
@@ -61,13 +61,15 @@ free software on the desktop and server.
 
 #### Platform: Circuit Board
 
-In this project, a remote [land
-rover](/assets/img/13032009263.jpg) was controlled using
-**DTMF tones** from a cellular device. Unlike the traditional remote control
-which has a limited range, a cell phone covers the entire Earth. The video
-camera on the cell phone could also be used to transmit live feed back.
+The aim of the project was to build a [Radio-controlled car](/assets/img/13032009263.jpg) that can be controlled
+using [**DTMF tones**](http://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling)
+of a cellphone. The idea was to build a remote control which has the 
+entire world as its range since cell phone reception has a global coverage.
 
-This project won **first prize** in the National Symposium "COMPSEM-09"
+Though it was not tested and demonstrated, but the video camera on board
+the cellphone on R/C car could also be used to transmit live feed to the user.
+
+This was built for a project competition and has won **first prize** in the National Symposium "COMPSEM-09"
 organized by Annamalai University in year 2009.
 
 ### 2) Visual Speech Synthesis
