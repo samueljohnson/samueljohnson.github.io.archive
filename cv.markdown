@@ -46,6 +46,11 @@ free software on the desktop and server.
   * '*Virtualization and Disaster Recovery (for PCs)*', Mar 15 - 2013, PRL, Ahmedabad.
   * '*Controlling Distant Objects Using Cell Phone*', Apr 6 - 2009, National Symposium "COMPSEM '2K9", Annamalai University, India.
 
+### Workshops
+
+  * CUDA Programming organised by Nirma University
+  * IPv6 for enterprise organised by C-DAC, Bangalore
+
 ----
 
 ## Education
@@ -61,13 +66,10 @@ free software on the desktop and server.
 
 #### Platform: Circuit Board
 
-The aim of the project was to build a [remote-controlled car](/assets/img/13032009263.jpg) that can be controlled
+In this project a [remote-controlled car](/assets/img/13032009263.jpg) was built that can be controlled
 using [DTMF tones](http://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling)
-of a cellphone. The idea was to build a remote control which has the 
-entire world as its range since cell phone reception has a global coverage.
-
-Though it was not tested and demonstrated, but the video camera on board
-the cellphone on R/C car could also be used to transmit live feed to the user.
+of a cellphone. Since cell phone reception has a global coverage, the RC car can be controlled from any where
+in the world.
 
 This was built for a project competition and has won **first prize** in the National Symposium "COMPSEM-09"
 organized by Annamalai University in year 2009.
@@ -79,7 +81,7 @@ organized by Annamalai University in year 2009.
 In this project, a software was implemented to convert an
 input text into an audiovisual speech stream and play it **incorporating the
 head and eye movements** of a human being in real-time. Instead of relying on
-existing speech engines(like Festival), a new engine is created which
+existing speech engines (like Festival), a new engine is created which
 **resolves ambiguities** in English language properly and has an **Indian
 accent**.
 
@@ -113,4 +115,3 @@ where every outgoing e-mail is first sent to this tool.
   * Coded and implemented a tool from scratch to inform sysadmins (and users) of misuse of IP in a network.
   * Deployed two ISPs in load balancing *and* fail-safe mode so as to have a complete
 utilization of both networks and at the same time have redundancy in case one of the ISP is down.
-
