@@ -46,11 +46,6 @@ free software on the desktop and server.
   * '*Virtualization and Disaster Recovery (for PCs)*', Mar 15 - 2013, PRL, Ahmedabad.
   * '*Controlling Distant Objects Using Cell Phone*', Apr 6 - 2009, National Symposium "COMPSEM '2K9", Annamalai University, India.
 
-### Workshops
-
-  * CUDA Programming organised by Nirma University
-  * IPv6 for enterprise organised by C-DAC, Bangalore
-
 ----
 
 ## Education
