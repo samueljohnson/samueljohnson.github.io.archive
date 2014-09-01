@@ -37,21 +37,21 @@ free software on the desktop and server.
 
   * *Port Knocking - An Additional Layer of Security for SSH and HTTPS*
 <br> Jigar A. Raval and **Samuel Johnson**
-<br> The 2013 International Conference on Security and Management, Las Vegas, USA, Jul 22 - 25
+<br> International Conference on Security and Management, Las Vegas, USA, Jul 22 - 2013
 
 ### Talk
 
-  * '*Securing E-mail Transfer*', Jan 29 - 2014, PRL, Ahmedabad.
-  *  '*Securing E-mail at PRL*', Jul 10 - 2013, PRL, Ahmedabad.
-  * '*Virtualization and Disaster Recovery (for PCs)*', Mar 15 - 2013, PRL, Ahmedabad.
-  * '*Controlling Distant Objects Using Cell Phone*', Apr 6 - 2009, National Symposium "COMPSEM '2K9", Annamalai University, India.
+  * “*Securing E-mail Transfer*,” Jan 29 - 2014, PRL, Ahmedabad.
+  * "*Securing E-mail at PRL*", Jul 10 - 2013, PRL, Ahmedabad.
+  * "*Virtualization and Disaster Recovery (for PCs)*", Mar 15 - 2013, PRL, Ahmedabad.
+  * "*Controlling Distant Objects Using Cell Phone*", Apr 6 - 2009, National Symposium "COMPSEM '2K9", Annamalai University, India.
 
 ----
 
 ## Education
 
-  * First class degree, M.Tech in **Information Security and Computer Forensics** from SRM University. 2010 - 2012
-  * First class degree with **distinction**, B.E. in **Computing Science** from Annamalai University. 2006 - 2010
+  * First class degree, M.Tech in **Information Security and Computer Forensics** from SRM University. 2010 – 2012
+  * First class degree with **distinction**, B.E. in **Computing Science** from Annamalai University. 2006 – 2010
 
 ----
 
