@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Hi there! My name is Samuel Johnson, I’m a Scientist/Engineer working at [Physical Research Laboratory](http://www.isro.gov.in/isrocentres/prl.aspx).
+Hi there! My name is Samuel Johnson, I’m a Scientist/Engineer working at [Physical Research Laboratory](http://www.isro.gov.in/about-isro/physical-research-laboratory-prl).
 
 Few of my interests includes: Cryptography, IT Security, Penetration Testing, Programming, High Performance Computing, System Administration, Virtualization, Computer Forensics, Quantum Computing.
 
