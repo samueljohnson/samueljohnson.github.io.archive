@@ -4,7 +4,7 @@ title: Scientist / Engineer - SC
 # email: my short first name (six letters) at Physical Research Laboratory’s domain (prl [dot] res [dot] in)
 organisation: Physical Research Laboratory
 username: samueljohnson
-description: "This page is created using git, jekyll, liquid, markdown, pygments, vim and other open-source software."
+description: "This page is created using git, jekyll, markdown, vim and other open-source software."
 baseurl: ""
 url: "samueljohnson.io"
 
