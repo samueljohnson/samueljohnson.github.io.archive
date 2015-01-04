@@ -29,7 +29,6 @@ Office: +91-79-2631-4036<br>
 ----
 <!--<hr style="border-color:black;">-->
 
-  <!--<form method="POST" action="http://forms.brace.io/esamueljohnson@gmail.com">-->
   <form method="POST" action="http://formspree.io/esamueljohnson@gmail.com">
    <div class="form-group">
    <label for="exampleInputName">Name</label>
