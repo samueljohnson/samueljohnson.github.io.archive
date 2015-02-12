@@ -102,11 +102,3 @@ where every outgoing e-mail is first sent to this tool.
 
 #### Designation : Scientist / Engineer - SC
 
-  * Deployed KVM based hypervisor and migrated physical servers to virtual machines.
-  * Enforced campus wide SMTP and IMAP SSL encryption.
-  * Enforced campus wide SMTP Authentication.
-  * Implemented VPN access for Linux users.
-  * Deployed new mail system based on Horde framework and successfully migrated existing user data from squirrelmail.
-  * Coded and implemented a tool from scratch to inform sysadmins (and users) of misuse of IP in a network.
-  * Deployed two ISPs in load balancing *and* fail-safe mode so as to have a complete
-utilization of both networks and at the same time have redundancy in case one of the ISP is down.
