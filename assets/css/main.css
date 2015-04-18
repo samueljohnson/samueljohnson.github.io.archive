@@ -89,7 +89,7 @@ button, input, select, textarea {
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body, iframe { height: 100%; }
 
 strong { font-weight: bold; }
 
