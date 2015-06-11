@@ -27,6 +27,11 @@ Here is my current list of favorite quotes:
 <p align="right">-- Julian Assange </p>
 ---
 
+> "There is hopeful symbolism in the fact that flags do not wave in a vacuum." 
+>
+<p align="right">-- Arthur C. Clarke </p>
+---
+
 > "When you are not practicing, remember, someone somewhere is practicing, and when you meet him he will win.” 
 >
 <p align="right">-- Ed Macauley </p>
