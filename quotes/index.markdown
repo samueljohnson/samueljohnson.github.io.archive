@@ -47,7 +47,8 @@ Here is my current list of favorite quotes:
 <p align="right">-- Anonymous </p>
 ---
 
-> “I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.”> 
+> “I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.”
+>
 <p align="right">-- Ralp Waldo Emerson </p>
 ---
 
