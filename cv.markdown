@@ -22,7 +22,7 @@ free software on the desktop and server.
 
   * [Certified](https://www.certmetrics.com/comptia/public/verification.aspx?code=LXRG9Z8K6LFE1RV4) in vendor-neutral **Comptia Linux+** Powered by **LPI**.
   * Novell [Certified](https://docs.google.com/viewer?url=https://samueljohnson.github.io/assets/pdf/SamuelJohnson_NCLA_ECR.pdf) Linux Administrator.
-  * Certified in [LPIC-1 Certification](/assets/img/LPI%20LPIC-1.jpg) from Linux Professional Institute.
+  * Certified in [LPIC-1 Certification](/assets/img/LPIC-1.jpg) from Linux Professional Institute.
   * [Quantum Mechanics and Quantum Computation ](https://docs.google.com/viewer?url=http://samueljohnson.github.io/assets/pdf/CS191x- Quantum Mechanics and Quantum Computation.pdf) from **University of California, Berkeley**.
 
 ### Publications
