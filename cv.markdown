@@ -51,7 +51,7 @@ free software on the desktop and server.
 ## Education
 
   * First class degree, M.Tech in **Information Security and Computer Forensics** from SRM University. 2010 – 2012
-  * First class degree with **distinction**, B.E. in **Computing Science** from Annamalai University. 2006 – 2010
+  * First class degree with **distinction**, B.E. in **Computer Science** from Annamalai University. 2006 – 2010
 
 ----
 
