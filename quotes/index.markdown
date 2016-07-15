@@ -27,6 +27,11 @@ Here is my current list of favorite quotes:
 <p align="right">-- Julian Assange </p>
 ---
 
+> "There is hopeful symbolism in the fact that flags do not wave in a vacuum." 
+>
+<p align="right">-- Arthur C. Clarke </p>
+---
+
 > "When you are not practicing, remember, someone somewhere is practicing, and when you meet him he will win.” 
 >
 <p align="right">-- Ed Macauley </p>
@@ -40,6 +45,11 @@ Here is my current list of favorite quotes:
 > "A tiger doesn't lose sleep over the opinion of sheep." 
 >
 <p align="right">-- Anonymous </p>
+---
+
+> “I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.”
+>
+<p align="right">-- Ralp Waldo Emerson </p>
 ---
 
 > "Kindness is a language which the deaf can hear and the blind can see.” 
