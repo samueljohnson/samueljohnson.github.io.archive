@@ -98,7 +98,7 @@ where every outgoing e-mail is first sent to this tool.
 
 ## Work Experience
 
-### 1) Indian Space Research Organisation, August 2016 - Current
+### 1) Indian Space Research Organisation, July 2016 - Current
 
 #### Designation: Scientist/Engineer - SD
 
