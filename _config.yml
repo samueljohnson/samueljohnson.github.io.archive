@@ -1,8 +1,8 @@
 # Site settings
 name: Samuel Johnson
-title: Scientist / Engineer - SC
-# email: my short first name (six letters) at Physical Research Laboratory’s domain (prl [dot] res [dot] in)
-organisation: Physical Research Laboratory
+title: Scientist / Engineer - SD
+# email: my short first name (six letters) at ISRO’s domain (isro [dot] gov [dot] in)
+organisation: Indian Space Research Organisation
 username: samueljohnson
 description: "This page is created using git, jekyll, markdown, vim and other open-source software."
 baseurl: ""

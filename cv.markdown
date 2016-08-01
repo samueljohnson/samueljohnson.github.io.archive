@@ -21,9 +21,9 @@ free software on the desktop and server.
 ### Professional Qualifications
 
   * [Certified](https://www.certmetrics.com/comptia/public/verification.aspx?code=LXRG9Z8K6LFE1RV4) in vendor-neutral **Comptia Linux+** Powered by **LPI**.
-  * Novell [Certified](https://docs.google.com/viewer?url=https://samueljohnson.github.io/assets/pdf/SamuelJohnson_NCLA_ECR.pdf) Linux Administrator.
+  * Novell [Certified](https://docs.google.com/viewer?url=https://samueljohnson.io/assets/pdf/SamuelJohnson_NCLA_ECR.pdf) Linux Administrator.
   * Certified in [LPIC-1 Certification](/assets/img/LPIC-1.jpg) from Linux Professional Institute.
-  * [Quantum Mechanics and Quantum Computation ](https://docs.google.com/viewer?url=http://samueljohnson.github.io/assets/pdf/CS191x- Quantum Mechanics and Quantum Computation.pdf) from **University of California, Berkeley**.
+  * [Quantum Mechanics and Quantum Computation ](https://docs.google.com/viewer?url=http://samueljohnson.io/assets/pdf/CS191x- Quantum Mechanics and Quantum Computation.pdf) from **University of California, Berkeley**.
 
 ### Publications
 
@@ -98,7 +98,14 @@ where every outgoing e-mail is first sent to this tool.
 
 ## Work Experience
 
-### Physical Research Laboratory, July 2012 - Current
+### 1) Indian Space Research Organisation, August 2016 - Current
 
-#### Designation : Scientist / Engineer - SC
+#### Designation: Scientist/Engineer - SD
 
+<br>
+
+### 2) Physical Research Laboratory, July 2012 - July 2016
+
+#### Designation: Scientist/Engineer - SC
+
+<!-- ##### Major Projects Implemented: DNSSEC, DKIM, DMARC, SMTP-AUTH, SPF, Horde Webmail, SMTP/IMAP TLS, ownCloud, Mailman, ShareLatex, CA signed HTTP SSL with ECC and EV, Password Policy, TOTP, Vikram-100 HPC, HPC site in Drupal, Server Virtualization, ISP multihome -->

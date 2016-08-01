@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Hi there!! My name is Samuel Johnson, I’m a Scientist/Engineer working at [Physical Research Laboratory](http://www.isro.gov.in/about-isro/physical-research-laboratory-prl).
+Hi there! My name is Samuel Johnson, I’m a Scientist/Engineer working at [Indian Space Research Organisation](http://www.isro.gov.in).
 
 Few of my interests includes: Cryptography, IT Security, Penetration Testing, Programming, High Performance Computing, System Administration, Virtualization, Computer Forensics, Quantum Computing.
 
@@ -15,7 +15,7 @@ My [Myers-Briggs Type Indicator](https://en.wikipedia.org/wiki/Myers-Briggs_Type
 
 ## Contact
 
-Drop me a line at: my short first name (six letters) at Physical Research Laboratory's domain (prl [dot] res [dot] in).
+Drop me a line at: my short first name (six letters) at ISRO's domain (isro [dot] gov [dot] in).
 
 Download my [public GPG key](/assets/txt/PRL_Public.asc) to encrypt email you send me if you like.
 
