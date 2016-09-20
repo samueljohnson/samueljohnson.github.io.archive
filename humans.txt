@@ -13,11 +13,11 @@
 
 /* TEAM */
 	Owner: 		Samuel Johnson
-	Contact(P): 	esamueljohnson [at} gmail {dot] com
-	Contact(O): 	samuel [at] prl {dot) res (dot} in
+	Contact(P): 	root [at} samueljohnson {dot] io
+	Contact(O): 	samuel [at] isro {dot) gov (dot} in
 	From:		Ahmedabad, Gujarat, India
 
 /* SITE */
-	Last update:	1399778076
+	Last update:	1474382452	
 	Doctype:	HTML5
 	Software:	VIM, git, gpg, Arch Linux, jekyll, markdown, liquid
