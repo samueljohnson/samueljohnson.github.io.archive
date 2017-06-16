@@ -21,11 +21,6 @@ Download my [public GPG key](/assets/txt/PRL_Public.asc) to encrypt email you se
 
 Or use the form below and I'll get back to you.
 
-If you'd like to talk:
-
-Mobile: +91-9408-451-908<br>
-Office: +91-79-2631-4036<br>
-
 ----
 <!--<hr style="border-color:black;">-->
 
