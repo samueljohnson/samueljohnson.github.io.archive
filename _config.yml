@@ -20,4 +20,4 @@ permalink: /blog/:year/:month/:day/:title/
 gems:
           - jekyll-sitemap
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-leap-day
